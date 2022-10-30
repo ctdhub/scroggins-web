@@ -180,12 +180,14 @@ body {
     letter-spacing: 5px;
 }
 
-.video-worker {
+.yt-frame {
     width: 400px;
+    height: 400px;
+    margin: 1rem;
 }
 
 @media (max-width: 500px) {
-    .video-worker {
+    .yt-frame {
         width: 250px;
     }
 }
